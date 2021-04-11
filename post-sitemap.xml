@@ -9,40 +9,40 @@
 
 
     <url>
-        <loc>https://www.vivelejap.fr/2021/04/04/0003-introduction/</loc>
-        <lastmod>2021-04-07T17:35:10.326Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
         <loc>https://www.vivelejap.fr/2021/04/04/0007-conclusion/</loc>
-        <lastmod>2021-04-07T17:15:44.474Z</lastmod>
+        <lastmod>2021-04-11T08:49:34.456Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
     </url>
 
     <url>
-        <loc>https://www.vivelejap.fr/2021/04/04/0006-les-katakanas/</loc>
-        <lastmod>2021-04-07T17:15:37.042Z</lastmod>
+        <loc>https://www.vivelejap.fr/2021/04/04/0006-katakanas/</loc>
+        <lastmod>2021-04-11T08:49:31.105Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
     </url>
 
     <url>
-        <loc>https://www.vivelejap.fr/2021/04/04/0005-les-hiraganas/</loc>
-        <lastmod>2021-04-07T17:15:30.163Z</lastmod>
+        <loc>https://www.vivelejap.fr/2021/04/04/0005-hiraganas/</loc>
+        <lastmod>2021-04-11T08:49:27.447Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
     </url>
 
     <url>
-        <loc>https://www.vivelejap.fr/2021/04/04/0004-les-kanas/</loc>
-        <lastmod>2021-04-07T17:15:17.929Z</lastmod>
+        <loc>https://www.vivelejap.fr/2021/04/04/0004-kanas/</loc>
+        <lastmod>2021-04-11T08:49:20.864Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://www.vivelejap.fr/2021/04/04/0003-introduction/</loc>
+        <lastmod>2021-04-11T08:49:12.936Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
@@ -50,7 +50,15 @@
 
     <url>
         <loc>https://www.vivelejap.fr/2021/04/04/0002-index/</loc>
-        <lastmod>2021-04-07T17:14:48.443Z</lastmod>
+        <lastmod>2021-04-11T08:48:30.312Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://www.vivelejap.fr/2021/04/11/0008-kanjis/</loc>
+        <lastmod>2021-04-11T08:45:32.400Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 

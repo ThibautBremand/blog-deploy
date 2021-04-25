@@ -9,6 +9,22 @@
 
 
     <url>
+        <loc>https://www.vivelejap.fr/2021/04/04/0002-index/</loc>
+        <lastmod>2021-04-25T15:21:57.670Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://www.vivelejap.fr/2021/04/25/0012-countries/</loc>
+        <lastmod>2021-04-25T15:19:28.406Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
         <loc>https://www.vivelejap.fr/2021/04/18/0011-desu-wa/</loc>
         <lastmod>2021-04-18T12:58:32.150Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -19,14 +35,6 @@
     <url>
         <loc>https://www.vivelejap.fr/2021/04/18/0009-disclaimer/</loc>
         <lastmod>2021-04-18T12:43:39.305Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://www.vivelejap.fr/2021/04/04/0002-index/</loc>
-        <lastmod>2021-04-18T12:42:48.680Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 

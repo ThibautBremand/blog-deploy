@@ -10,7 +10,39 @@
 
     <url>
         <loc>https://www.vivelejap.fr/2021/05/14/0013-numbers/</loc>
-        <lastmod>2021-05-14T12:38:47.940Z</lastmod>
+        <lastmod>2021-05-14T12:50:37.771Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://www.vivelejap.fr/2021/04/25/0012-countries/</loc>
+        <lastmod>2021-05-14T12:50:33.747Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://www.vivelejap.fr/2021/04/18/0011-desu-wa/</loc>
+        <lastmod>2021-05-14T12:50:30.812Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://www.vivelejap.fr/2021/04/18/0010-common-expressions/</loc>
+        <lastmod>2021-05-14T12:50:26.171Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+
+    </url>
+
+    <url>
+        <loc>https://www.vivelejap.fr/2021/04/18/0009-disclaimer/</loc>
+        <lastmod>2021-05-14T12:50:19.707Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
@@ -19,38 +51,6 @@
     <url>
         <loc>https://www.vivelejap.fr/2021/04/04/0002-index/</loc>
         <lastmod>2021-05-14T12:25:40.861Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://www.vivelejap.fr/2021/04/25/0012-countries/</loc>
-        <lastmod>2021-04-25T15:19:28.406Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://www.vivelejap.fr/2021/04/18/0011-desu-wa/</loc>
-        <lastmod>2021-04-18T12:58:32.150Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://www.vivelejap.fr/2021/04/18/0009-disclaimer/</loc>
-        <lastmod>2021-04-18T12:43:39.305Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>https://www.vivelejap.fr/2021/04/18/0010-common-expressions/</loc>
-        <lastmod>2021-04-18T12:31:50.186Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.6</priority>
 
